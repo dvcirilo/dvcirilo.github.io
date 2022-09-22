@@ -4,4 +4,4 @@
 - Informática (Téc. Sub. em Meio Ambiente)
 - Programação Orientada a Serviços
 
-[Test slide](slides/01-apresentacao-da-disciplina-e-introducao.html)
+[Test slide](assets/slides/01-apresentacao-da-disciplina-e-introducao.html)
